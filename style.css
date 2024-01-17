@@ -1,0 +1,112 @@
+body {
+    background: #fff;
+    margin: 0px;
+    padding: 0px;
+}
+h1{
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: normal;
+    text-align: center;
+    text-decoration: none;
+    text-transform: uppercase;
+    text-shadow: #7b7979 2px;
+    color: #770237;
+}
+
+ul {
+    justify-content: space-between;
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+    overflow: hidden;
+    background-color: #9d0046;
+
+}
+
+li {
+    float:left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    margin:2px;
+    text-decoration: none;
+    justify-content: center;
+}
+
+li a:hover {
+    background-color: #ff20aa;
+}
+
+/* .img-1{
+    float: left;
+    width: 100px;
+    height: 100%;
+} */
+
+.container-1 {
+    display: flex;
+}
+.img-2 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    margin-top: 20px;
+    border-radius: 2px;
+}
+
+h3{
+    text-align: center;
+    text-decoration: none;
+    color: #770237;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+    margin-top: 0px;
+}
+
+.button-1{
+    display: block;
+    text-align: center;
+    background-color: #840058;
+    padding: 10PX;
+    margin-top: 0px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 150px;
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    box-shadow: blueviolet;
+}
+.button-1:hover{
+    background-color:#5b2449dd;
+}
+.img-3{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    margin-top: 20px;
+    border-radius: 2px;
+}
+.button-1 {
+    display: block;
+    text-align: center;
+    background-color: #840058;
+    padding: 10PX;
+    margin-top: 0px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 150px;
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    box-shadow: blueviolet;
+}
